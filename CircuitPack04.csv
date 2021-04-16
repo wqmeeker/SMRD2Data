@@ -1,0 +1,39 @@
+DaysL,DaysU,Censoring,DaysL2,DaysU2,Count
+1,1,Left,0,1,10
+1,2,Interval,1,2,2
+2,3,Interval,2,3,3
+3,6,Interval,3,6,2
+1,8,Interval,1,8,5
+7,11,Interval,7,11,2
+8,13,Interval,8,13,3
+11,24,Interval,11,24,4
+11,25,Interval,11,25,1
+7,27,Interval,7,27,1
+28,28,Right,28, ,10
+27,28,Interval,27,28,1
+26,29,Interval,26,29,1
+30,31,Interval,30,31,1
+24,52,Interval,24,52,2
+25,53,Interval,25,53,1
+26,54,Interval,26,54,1
+32,55,Interval,32,55,2
+31,55,Interval,31,55,2
+52,65,Interval,52,65,1
+93,93,Right,93, ,1
+55,96,Interval,55,96,1
+101,101,Right,101, ,1
+104,104,Right,104, ,2
+107,107,Right,107, ,6
+52,108,Interval,52,108,1
+111,111,Right,111, ,4
+52,123,Interval,52,123,5
+53,126,Interval,53,126,3
+54,126,Interval,54,126,8
+55,127,Interval,55,127,1
+188,188,Right,188, ,669
+126,188,Interval,126,188,1
+127,191,Interval,127,191,5
+191,191,Right,191, ,1048
+126,191,Interval,126,191,1
+192,192,Right,192, ,460
+126,192,Interval,126,192,3

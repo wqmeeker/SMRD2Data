@@ -1,0 +1,9 @@
+Lower,Upper,Lower2,Upper2,Status,Count
+100,100,0,100,Left,41
+100,300,100,300,Interval,44
+300,500,300,500,Interval,24
+500,700,500,700,Interval,32
+700,1000,700,1000,Interval,29
+1000,2000,1000,2000,Interval,21
+2000,4000,2000,4000,Interval,9
+4000,4000,4000,,Right,0
