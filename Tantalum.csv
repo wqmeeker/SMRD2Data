@@ -1,4 +1,4 @@
-Hours,Status,Weight,Volts,DegreesC
+Hours,Censoring Indicator,Counts,Volts,DegreesC
 20,Failure,1,35,85
 90,Failure,1,35,85
 700,Failure,1,35,85

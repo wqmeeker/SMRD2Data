@@ -1,4 +1,4 @@
-Hours,Status,Weight,DegreesC
+Hours,Censoring Indicator,Counts,DegreesC
 5000,Censored,30,10
 1298,Failed,1,40
 1390,Failed,1,40

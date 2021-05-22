@@ -1,4 +1,4 @@
-Voltage,Result,VoltageL,VoltageU,Detonate,Censor
+Voltage (V),Result,Voltage Lower (V),Voltage Upper (V),Detonate,Censoring Indicator
 18,0,18,,No,Left
 19,0,19,,No,Left
 20,0,20,,No,Left

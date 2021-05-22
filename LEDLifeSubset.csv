@@ -1,4 +1,4 @@
-kHours,Status,mA,DegreesC,Weight
+Thousands of Hours,Censoring Indicator,mA,DegreesC,Counts
 10,Censored,30,61,13
 9.9284,Failed,30,61,1
 9.6026,Failed,30,61,1

@@ -1,4 +1,4 @@
-System,Device,Hours,Status
+System Number,Device Number,Hours,Censoring Indicator
 1,1,564,Censored
 2,1,1321,Censored
 3,1,1933,Censored

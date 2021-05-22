@@ -1,4 +1,4 @@
-Unit,JTemp,Current,Hours,Output,RelativeChange
+Unit Number,DegreesC,Current (mA),Hours,Voltage (mV),Relative Change
 101,94,30,138,4.64262,1
 101,94,30,234,4.50499,0.97036
 101,94,30,330,4.40421,0.94865

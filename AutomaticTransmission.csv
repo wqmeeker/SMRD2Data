@@ -1,20 +1,20 @@
-Unit,Hours,Cost,Status
-24,7068,1,Event
+Unit Number,Test Miles,Cost,Event
+24,7068,1,Repair
 24,26744,0,End
-26,28,1,Event
+26,28,1,Repair
 26,13809,0,End
-27,48,1,Event
-27,1440,1,Event
+27,48,1,Repair
+27,1440,1,Repair
 27,29834,0,End
-29,530,1,Event
+29,530,1,Repair
 29,25660,0,End
 31,21762,0,End
 32,14235,0,End
-34,1388,1,Event
+34,1388,1,Repair
 34,21133,0,End
 35,21401,0,End
 98,21876,0,End
-107,5094,1,Event
+107,5094,1,Repair
 107,18228,0,End
 108,21691,0,End
 109,20890,0,End
@@ -29,7 +29,7 @@ Unit,Hours,Cost,Status
 118,22854,0,End
 119,17844,0,End
 120,22637,0,End
-121,375,1,Event
+121,375,1,Repair
 121,19607,0,End
 122,19403,0,End
 123,20997,0,End
@@ -39,7 +39,7 @@ Unit,Hours,Cost,Status
 129,21144,0,End
 130,21237,0,End
 131,14281,0,End
-132,8250,1,Event
+132,8250,1,Repair
 132,21974,0,End
-133,19250,1,Event
+133,19250,1,Repair
 133,21888,0,End

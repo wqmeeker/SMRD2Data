@@ -1,9 +1,9 @@
-Thousands of Cycles,Stroke,Temp,Method,Status,Weight
-5000,50,500,New,Suspended,9
+Thousands of Cycles,Stroke (mils),Processing Temperature (F),Method,Censoring Indicator,Counts
+5000,50,500,New,Censored,9
 3464,60,500,New,Failed,1
 1016,60,500,New,Failed,1
 2287,60,500,New,Failed,1
-5000,60,500,New,Suspended,6
+5000,60,500,New,Censored,6
 2853,70,500,New,Failed,1
 3199,70,500,New,Failed,1
 752,70,500,New,Failed,1
@@ -11,12 +11,12 @@ Thousands of Cycles,Stroke,Temp,Method,Status,Weight
 4196,70,500,New,Failed,1
 2592,70,500,New,Failed,1
 4542,70,500,New,Failed,1
-5000,70,500,New,Suspended,2
+5000,70,500,New,Censored,2
 997,50,500,Old,Failed,1
 3904,50,500,Old,Failed,1
 3674,50,500,Old,Failed,1
 3644,50,500,Old,Failed,1
-5000,50,500,Old,Suspended,5
+5000,50,500,Old,Censored,5
 2193,60,500,Old,Failed,1
 2785,60,500,Old,Failed,1
 4006,60,500,Old,Failed,1
@@ -37,14 +37,14 @@ Thousands of Cycles,Stroke,Temp,Method,Status,Weight
 218,70,500,Old,Failed,1
 4241,50,1000,New,Failed,1
 1715,50,1000,New,Failed,1
-5000,50,1000,New,Suspended,7
+5000,50,1000,New,Censored,7
 3158,60,1000,New,Failed,1
 3545,60,1000,New,Failed,1
 4188,60,1000,New,Failed,1
 4583,60,1000,New,Failed,1
 1595,60,1000,New,Failed,1
 3030,60,1000,New,Failed,1
-5000,60,1000,New,Suspended,3
+5000,60,1000,New,Censored,3
 2196,70,1000,New,Failed,1
 808,70,1000,New,Failed,1
 2257,70,1000,New,Failed,1
@@ -60,7 +60,7 @@ Thousands of Cycles,Stroke,Temp,Method,Status,Weight
 3562,50,1000,Old,Failed,1
 1898,50,1000,Old,Failed,1
 1855,50,1000,Old,Failed,1
-5000,50,1000,Old,Suspended,3
+5000,50,1000,Old,Censored,3
 1670,60,1000,Old,Failed,1
 1481,60,1000,Old,Failed,1
 371,60,1000,Old,Failed,1

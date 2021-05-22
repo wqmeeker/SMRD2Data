@@ -1,4 +1,4 @@
-Temperature,ThousandHours,Status,Frequency
+DegreesC,Thousands of Hours,Censoring Indicator,Counts
 80,3,Censored,10
 125,3,Censored,10
 150,2.35,Failure,1

@@ -1,4 +1,4 @@
-ErrorRate,Disk,Hours,Temp
+Byte Error Rate,Disk Number,Hours,DegreesC
 0.621,1,0,80
 0.663,1,500,80
 1.2,1,1000,80

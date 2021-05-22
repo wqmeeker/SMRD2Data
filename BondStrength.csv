@@ -1,4 +1,4 @@
-Batch,Grams,Status
+Batch Number,Strength (g),Censoring Indicator
 Batch1,504,Failed
 Batch1,168,Failed
 Batch1,420,Failed

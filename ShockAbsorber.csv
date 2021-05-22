@@ -1,4 +1,4 @@
-Kilometers,Mode,Status
+Kilometers,Failure Mode,Censoring Indicator
 6700,Mode1,Failed
 6950,Censored,Censored
 7820,Censored,Censored

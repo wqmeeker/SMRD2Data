@@ -1,4 +1,4 @@
-Unit,Days,Censor,Cost,Batch
+Unit Number,Days,Event,Cost,Batch ID
 9136,33,Replacement,1,Batch1
 9110,88,Replacement,1,Batch1
 9106,250,Replacement,1,Batch1

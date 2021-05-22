@@ -1,4 +1,4 @@
-PowerDrop,Device,Hours,DegreesC
+Power Drop (dB),Device Number,Hours,DegreesC
 0,101,0,150
 -0.01695,101,125,150
 -0.02642,101,250,150

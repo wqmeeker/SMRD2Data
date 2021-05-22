@@ -1,4 +1,4 @@
-HoursL,HoursU,Status,TruncCode,TruncTime,Count,Vendor
+Hours Lower,Hours Upper,Censoring Indicator,Truncation Indicator,Truncation Hours,Counts,Vendor Number
 1,1,Left,Exact,0,10,V1
 1,2,Interval,Exact,0,1,V1
 2,5,Interval,Exact,0,3,V1

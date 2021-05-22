@@ -1,4 +1,4 @@
-Dod,Disch.rate,Chg.rate,Rechg,Koh.perct,Koh.cc,Prechg,TempC,Cycles,Status
+Discharge Depth (%),Discharge Time (hours),Charge Time (hours),Recharge Level,KOH Concentration (%),KOH Volume (cc),Precharge Time (hours),DegreesC,Cycles,Censoring Indicator
 40,1,0.5,140,26,18.5,2.5,30,12745,Failure
 80,1,2,140,34,20.5,3,50,964,Failure
 80,4,2,200,26,18.5,3,30,1791,Failure

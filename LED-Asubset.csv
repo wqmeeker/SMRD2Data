@@ -1,4 +1,4 @@
-Unit,JTemp,Current,Hours,RelativeChange
+Unit Number,DegreesC,Current (mA),Hours,Relative Change
 1,94,30,138,1
 1,94,30,234,0.97036
 1,94,30,330,0.94865

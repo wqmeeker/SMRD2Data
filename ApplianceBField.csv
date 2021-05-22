@@ -1,4 +1,4 @@
-DataSource,Status,Weight,Time,FailureMode
+Data Source,Censoring Indicator,Counts,Days,Failure Mode
 Field,Failed,1,181,Wear
 Field,Censored,1,95,Censored
 Field,Censored,1,504,Censored

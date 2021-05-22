@@ -1,4 +1,4 @@
-MPa,Thousands of Cycles,Status
+Stress (MPa),Thousands of Cycles,Censoring Indicator
 380,34.2,Failed
 380,37.7,Failed
 380,42,Failed

@@ -1,4 +1,4 @@
-StrengthL,StengthU,Type,Weight
+Strength Lower (ksi),Strength Upper (ksi),Censoring Indicator,Counts
 79,80,Interval,1
 80,81,Interval,0
 81,82,Interval,4

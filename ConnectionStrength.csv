@@ -1,4 +1,4 @@
-Strength(mg),Mode,Weight
+Strength (mg),Failure Mode,Case Weights
 550,Bond,1
 750,Wire,1
 950,Bond,1

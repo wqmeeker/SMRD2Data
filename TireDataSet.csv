@@ -1,10 +1,4 @@
-"Tire 
-Age","Wedge 
-Gauge","Interbelt 
-Gauge",EB2B,"Peel 
-Force","% Carbon 
-Black","Wedge Gauge 
-x Peel Force",Survival,Censoring
+Tire Age,Wedge Gauge,Interbelt Gauge,EB2B,Peel Force,Percent Carbon Black,Wedge Gauge x Peel Force,Survival,Censoring Indicator
 1.22,0.81,0.88,1.07,0.63,1.02,0.46,1.02,Censored
 1.19,0.69,0.77,0.92,0.68,1.02,0.43,1.05,Failed
 0.93,0.77,1.01,1.11,0.72,0.99,0.49,1.22,Censored

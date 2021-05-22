@@ -1,4 +1,4 @@
-Lot,YearsL,YearsU,Count,Status,Censor
+Lot,Years Lower,Years Upper,Counts,Result,Censoring Indicator
 14,2.5,,75,Pass,Right
 14,2.6,,28,Pass,Right
 14,2.7,,38,Pass,Right
