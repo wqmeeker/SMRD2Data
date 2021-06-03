@@ -1,0 +1,9 @@
+Time Lower,Time Upper,Censoring Indicator,Count
+100,100,Left,41
+100,300,Interval,44
+300,500,Interval,24
+500,700,Interval,32
+700,1000,Interval,29
+1000,2000,Interval,21
+2000,4000,Interval,9
+4000,4000,Right,0

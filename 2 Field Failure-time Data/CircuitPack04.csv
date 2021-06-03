@@ -1,0 +1,39 @@
+Days Lower,Days Upper,Censoring Indicator,Count
+0,1,Left,10
+1,2,Interval,2
+2,3,Interval,3
+3,6,Interval,2
+1,8,Interval,5
+7,11,Interval,2
+8,13,Interval,3
+11,24,Interval,4
+11,25,Interval,1
+7,27,Interval,1
+28, ,Right,10
+27,28,Interval,1
+26,29,Interval,1
+30,31,Interval,1
+24,52,Interval,2
+25,53,Interval,1
+26,54,Interval,1
+32,55,Interval,2
+31,55,Interval,2
+52,65,Interval,1
+93, ,Right,1
+55,96,Interval,1
+101, ,Right,1
+104, ,Right,2
+107, ,Right,6
+52,108,Interval,1
+111, ,Right,4
+52,123,Interval,5
+53,126,Interval,3
+54,126,Interval,8
+55,127,Interval,1
+188, ,Right,669
+126,188,Interval,1
+127,191,Interval,5
+191, ,Right,1048
+126,191,Interval,1
+192, ,Right,460
+126,192,Interval,3

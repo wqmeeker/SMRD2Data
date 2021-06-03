@@ -1,0 +1,39 @@
+Thousands of Cycles,Censoring Indicator,Count
+2,survived  ,3
+4,survived,3
+6,survived,2
+6,failed  ,1
+8,survived,3
+10,survived,1
+12,failed  ,1
+12,survived,9
+14,survived,5
+16,survived,7
+18,survived,4
+20,survived,4
+22,survived,5
+24,survived,5
+26,failed  ,1
+26,survived,5
+28,failed  ,1
+28,survived,5
+30,failed  ,1
+30,survived,4
+32,survived,4
+34,survived,2
+36,survived,2
+38,survived,2
+40,survived,2
+42,survived,1
+44,survived,6
+46,survived,2
+48,survived,1
+50,failed  ,1
+50,survived,3
+54,survived,2
+56,survived,1
+58,survived,1
+64,failed  ,1
+66,survived,1
+76,survived,1
+78,survived,2

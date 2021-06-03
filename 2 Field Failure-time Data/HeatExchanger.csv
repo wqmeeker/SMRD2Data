@@ -1,0 +1,10 @@
+Years Lower,Years Upper,Censoring Indicator,Count,Plant
+0,1,Left,1,1
+1,2,Interval,2,1
+2,3,Interval,2,1
+3, ,Right,95,1
+0,1,Left,2,2
+1,2,Interval,3,2
+2, ,Right,95,2
+0,1,Left,1,3
+1, ,Right,99,3
